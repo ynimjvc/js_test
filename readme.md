@@ -37,4 +37,22 @@
 
 ## Frontend
 
+Использовать React + Redux
+Стили организовать через JSS
+
 ## Backend
+
+Для бекенда использовать Express, без БД
+должны быть следующие апи
+- список пользователей
+- список тасков
+- добавить таск
+- удалить таск
+
+## Документация и примеры
+[React](https://reactjs.org/)
+[Redux](https://redux.js.org/)
+[Jss](https://cssinjs.org/)
+[Express](https://expressjs.com/)
+[Node](https://nodejs.org/dist/latest-v10.x/docs/api/)
+[JS](https://javascript.info/)
